@@ -1,0 +1,6 @@
+parent: classic
+name: honey-barrel
+display_name: Honey Barrel
+version: 1.0.0
+assets:
+  use_parent_assets: true
